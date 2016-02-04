@@ -1,3 +1,5 @@
+PUSH_GHPAGES = true
+
 include lib/main.mk
 
 lib/main.mk:
