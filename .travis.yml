@@ -3,10 +3,11 @@ sudo: false
 addons:
   apt:
     packages:
-     - python-pip
-
+    - python-pip
 install:
- - gem install kramdown-rfc2629
- - pip install xml2rfc
-
+- gem install kramdown-rfc2629
+- pip install xml2rfc
 script: make ghpages
+env:
+  global:
+    secure: UbakLfp8oziEWDCcrAjUWZl1aO1uCdvkwrm5nIgxCKjNzu+LDH3C2w4B/WGhiP+B3EHXlX+/ldOkWZFCO3hEhSHp+45hwYP477bWn247QRn7dGdTAqobsQfffjAhcg86VK/fKex2MP3KaiWuvn7peQHl5UPbAzyLrwa7q0e2qSsJQKYsAAVDmptq82XN53gkNc49nTkMolRFAbqB5IaGqi35DgU0QScO1vdRQOBw9GQkgtxN9DLRaA+X57IYFGd4ClEPPp4mOeLircjN3tz/Mb71F7T0sCuBGtEbGEAbTZCBxZ2lzoHi/hmSkiZLgAL7jINVy3wjRrkoFtPBxKkdwH4MpIFRbYsgBzineWwb23H9JV+Dv0SUJAt8M9onhlaIDq/4G108omA42ni7016OVOzK8RsnZnP7atWADWM7Qht2BPj/Bi8YaCwrX23JoBPQ4j3jidwm/lNT0f8jKTow7gxD/SnHPg/4S8iKRx1c6TsegS9nAUPDti9UJ8FGANkgVIaDSXryAa6Az1wRZOTbTHYGsyOX4VK3i2v2s8gObiq4Ff9NYgPqOIZB0Ga5TEnbDQV3xgLh1ETTOfdgh8pcC/TM1WDwu2S5ds0zY6XbkAflntDeOcYYfBf/bxcVHsplxWYguAFhOM2W89IAq5qSNuNndMHcs8csQ8JCYfqK+Ys=
