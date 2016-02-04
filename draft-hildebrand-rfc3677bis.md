@@ -2,7 +2,7 @@
 title: IETF ISOC Board of Trustee Appointment Procedures
 abbrev: isocbot
 docname: draft-hildebrand-rfc3677bis
-date: 2016-02-03
+date: 2016-02-04
 category: std
 
 ipr: trust200902
@@ -223,3 +223,29 @@ implications for network security.
 --- back
 
 # IAB Members at the time of this writing
+
+Jari Arkko
+
+Mary Barnes
+
+Marc Blanchet
+
+Ralph Droms
+
+Ted Hardie
+
+Joe Hildebrand
+
+Russ Housley
+
+Erik Nordmark
+
+Robert Sparks
+
+Andrew Sullivan
+
+Dave Thaler
+
+Brian Trammell
+
+Suzanne Woolf
