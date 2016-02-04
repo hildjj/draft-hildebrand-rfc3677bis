@@ -4,9 +4,9 @@
 
 Network Working Group                                      J. Hildebrand
 Internet-Draft                                             Cisco Systems
-Obsoletes: RFC3677 (if approved)                       February 03, 2016
+Obsoletes: RFC3677 (if approved)                       February 04, 2016
 Intended status: Standards Track
-Expires: August 6, 2016
+Expires: August 7, 2016
 
 
            IETF ISOC Board of Trustee Appointment Procedures
@@ -32,7 +32,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on August 6, 2016.
+   This Internet-Draft will expire on August 7, 2016.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Hildebrand               Expires August 6, 2016                 [Page 1]
+Hildebrand               Expires August 7, 2016                 [Page 1]
 
 Internet-Draft                   isocbot                   February 2016
 
@@ -78,7 +78,7 @@ Table of Contents
      5.1.  Normative References  . . . . . . . . . . . . . . . . . .   6
      5.2.  Informative References  . . . . . . . . . . . . . . . . .   6
    Appendix A.  IAB Members at the time of this writing  . . . . . .   6
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   6
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   7
 
 1.  Introduction
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Hildebrand               Expires August 6, 2016                 [Page 2]
+Hildebrand               Expires August 7, 2016                 [Page 2]
 
 Internet-Draft                   isocbot                   February 2016
 
@@ -165,7 +165,7 @@ Internet-Draft                   isocbot                   February 2016
 
 
 
-Hildebrand               Expires August 6, 2016                 [Page 3]
+Hildebrand               Expires August 7, 2016                 [Page 3]
 
 Internet-Draft                   isocbot                   February 2016
 
@@ -221,7 +221,7 @@ Internet-Draft                   isocbot                   February 2016
 
 
 
-Hildebrand               Expires August 6, 2016                 [Page 4]
+Hildebrand               Expires August 7, 2016                 [Page 4]
 
 Internet-Draft                   isocbot                   February 2016
 
@@ -277,7 +277,7 @@ Internet-Draft                   isocbot                   February 2016
 
 
 
-Hildebrand               Expires August 6, 2016                 [Page 5]
+Hildebrand               Expires August 7, 2016                 [Page 5]
 
 Internet-Draft                   isocbot                   February 2016
 
@@ -325,18 +325,40 @@ Internet-Draft                   isocbot                   February 2016
 
 Appendix A.  IAB Members at the time of this writing
 
-Author's Address
+   Jari Arkko
+
+   Mary Barnes
+
+   Marc Blanchet
 
 
 
-
-
-
-
-Hildebrand               Expires August 6, 2016                 [Page 6]
+Hildebrand               Expires August 7, 2016                 [Page 6]
 
 Internet-Draft                   isocbot                   February 2016
 
+
+   Ralph Droms
+
+   Ted Hardie
+
+   Joe Hildebrand
+
+   Russ Housley
+
+   Erik Nordmark
+
+   Robert Sparks
+
+   Andrew Sullivan
+
+   Dave Thaler
+
+   Brian Trammell
+
+   Suzanne Woolf
+
+Author's Address
 
    Joe Hildebrand
    Cisco Systems
@@ -367,26 +389,4 @@ Internet-Draft                   isocbot                   February 2016
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hildebrand               Expires August 6, 2016                 [Page 7]
+Hildebrand               Expires August 7, 2016                 [Page 7]
