@@ -8,7 +8,5 @@
 .refcache
 venv/
 issues.json
-draft-hildebrand-rfc3677bis.xml
-lib/
-lib
 draft-hildebrand-rfc3677bis-latest.xml
+lib/
