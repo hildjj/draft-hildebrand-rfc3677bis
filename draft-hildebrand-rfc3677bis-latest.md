@@ -1,7 +1,7 @@
 ---
 title: IETF ISOC Board of Trustee Appointment Procedures
 abbrev: isocbot
-docname: draft-hildebrand-rfc3677bis
+docname: draft-hildebrand-rfc3677bis-latest
 date: 2016-02-05
 category: std
 
