@@ -19,6 +19,18 @@ author:
     name: Joe Hildebrand
     organization: Cisco Systems
     email: jhildebr@cisco.com
+ -
+    ins: L. Daigle
+    name: Leslie Daigle
+    email: ldaigle@thinkingcat.com
+
+normative:
+  ISOC-By-Laws:
+    author:
+      org: The Internet Society
+    title: Amended and restated By-Laws of the Internet Society
+    date: 2013-07-22
+    target: https://www.internetsociety.org/who-we-are/governance-and-policies/amended-and-restated-laws-internet-society
 
 informative:
   RFC3677:
@@ -34,7 +46,7 @@ an Internet Society (ISOC) Board of Trustees appointment.
 # Introduction        {#introduction}
 
 The Internet Society (ISOC) provides organizational and financial
-support for the IETF.  As stipulated in ISOC's by-laws (and originally specified
+support for the IETF.  As stipulated in {{ISOC-By-Laws}} (and originally specified
 in {{RFC3677}}) the IETF is called upon to name 4 Trustees to its Board (BoT),
 with staggered 3 year terms.  This requires that the IETF name one Trustee
 each year.
@@ -177,7 +189,7 @@ the IETF ISOC Trustee selection process for that year (taking into
 account the particular dates of the first IETF meeting of the year,
 etc), following the guidelines above.
 
-### Timing of fourth appointment
+### Timing of Fourth Appointment
 
 There was a change to the ISOC by-laws in 2013 such that the IAB appoints
 a total of four Board members, with that change taking effect in 2015.  Every
@@ -193,6 +205,14 @@ in the given years:
 * 2019: 1
 * 2020: 1
 * etc.
+
+### Further Changes to Number and Timing of Appointments
+
+If ISOC further modifies {{ISOC-By-Laws}} concerning the number of IAB
+appointments to the ISOC Board or the timing thereof, the IAB will make
+reasonable modifications to the processes embodied in this document, without
+requiring further modification to this document.  Such changes will be
+announced via IAB statement.
 
 ## Mid-term Vacancies
 
