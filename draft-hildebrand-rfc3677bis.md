@@ -2,7 +2,7 @@
 title: IETF ISOC Board of Trustee Appointment Procedures
 abbrev: isocbot
 docname: draft-hildebrand-rfc3677bis
-date: 2016-02-04
+date: 2016-02-05
 category: std
 
 ipr: trust200902
@@ -20,11 +20,9 @@ author:
     organization: Cisco Systems
     email: jhildebr@cisco.com
 
-normative:
-  RFC3677:
-
 informative:
-  RFC2727:
+  RFC3677:
+  RFC7437:
 
 --- abstract
 
@@ -54,7 +52,7 @@ position each year.
 ## Rationale   {#rationale}
 
 An alternative approach to making a selection for these positions
-would be to use the IETF's NomCom ({{RFC2727}} and its revisions).
+would be to use the IETF's NomCom ({{RFC7437}} and its revisions).
 However, that NomCom is chartered and defined specifically to the
 task of making selections for IETF organization tasks, and the ISOC
 BoT appointment process does not fit that in 2 ways:
@@ -71,7 +69,7 @@ specific appointment.  The second issue is more general, and not
 reasonably reconciled with the IETF NomCom task as currently
 specified.
 
-The process described in {{RFC2727}} is oriented toward soliciting
+The process described in {{RFC7437}} is oriented toward soliciting
 feedback from the IETF community with respect to individuals and
 technical positions with which they have personal experience.  To
 make a good decision on external appointments, in general, the NomCom
@@ -181,10 +179,9 @@ etc), following the guidelines above.
 
 ### Timing of fourth appointment
 
-There was a change to the ISOC bylaws in 2013 such that the IAB appoints
-a total of four Board members, with that change taking effect in 2015.  The
-fourth Board member will be appointed such that every third year, the IAB
-will appoint two Board members, starting in 2015.
+There was a change to the ISOC by-laws in 2013 such that the IAB appoints
+a total of four Board members, with that change taking effect in 2015.  Every
+third year, the IAB will appoint two ISOC Board members instead of one.
 
 For clarity, this means the following number of Board members will be appointed
 in the given years:
