@@ -2,13 +2,13 @@
 title: IETF ISOC Board of Trustee Appointment Procedures
 abbrev: isocbot
 docname: draft-hildebrand-rfc3677bis-latest
-date: 2016-02-05
+date: 2016-02-06
 category: std
 
 ipr: trust200902
 area: iab
 keyword: Internet-Draft
-obsoletes: RFC3677
+obsoletes: 3677
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
