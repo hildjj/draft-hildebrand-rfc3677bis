@@ -5,7 +5,7 @@
 Network Working Group                                      J. Hildebrand
 Internet-Draft                                             Cisco Systems
 Obsoletes: 3677 (if approved)                                  L. Daigle
-Intended status: Standards Track                       February 06, 2016
+Intended status: Standards Track                        February 6, 2016
 Expires: August 9, 2016
 
 
@@ -14,8 +14,9 @@ Expires: August 9, 2016
 
 Abstract
 
-   This memo outlines the process by which the IETF makes a selection of
-   an Internet Society (ISOC) Board of Trustees appointment.
+   This memo, which obsoletes RFC3677, outlines the process by which the
+   IETF makes a selection of an Internet Society (ISOC) Board of
+   Trustees appointment.
 
 Status of This Memo
 
@@ -52,7 +53,6 @@ Copyright Notice
 
 
 
-
 Hildebrand & Daigle      Expires August 9, 2016                 [Page 1]
 
 Internet-Draft                   isocbot                   February 2016
@@ -74,10 +74,11 @@ Table of Contents
        3.4.2.  Further Changes to Number and Timing of Appointments    6
      3.5.  Mid-term Vacancies  . . . . . . . . . . . . . . . . . . .   6
        3.5.1.  Interim Appointment Process . . . . . . . . . . . . .   6
-   4.  Security Considerations . . . . . . . . . . . . . . . . . . .   6
-   5.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   6
-     5.1.  Normative References  . . . . . . . . . . . . . . . . . .   6
-     5.2.  Informative References  . . . . . . . . . . . . . . . . .   7
+   4.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   6
+   5.  Security Considerations . . . . . . . . . . . . . . . . . . .   6
+   6.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   6
+     6.1.  Normative References  . . . . . . . . . . . . . . . . . .   6
+     6.2.  Informative References  . . . . . . . . . . . . . . . . .   7
    Appendix A.  IAB Members at the time of this writing  . . . . . .   7
    Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .   7
 
@@ -105,7 +106,6 @@ Table of Contents
    An alternative approach to making a selection for these positions
    would be to use the IETF's NomCom ([RFC7437] and its revisions).
    However, that NomCom is chartered and defined specifically to the
-
 
 
 
@@ -312,14 +312,18 @@ Internet-Draft                   isocbot                   February 2016
    selection, a separate timeline will be announced and the rest of the
    process described in this document will be followed.
 
-4.  Security Considerations
+4.  IANA Considerations
+
+   This document has no actions for IANA
+
+5.  Security Considerations
 
    This document does not describe any technical protocols and has no
    implications for network security.
 
-5.  References
+6.  References
 
-5.1.  Normative References
+6.1.  Normative References
 
    [ISOC-By-Laws]
               The Internet Society, "Amended and restated By-Laws of the
@@ -329,16 +333,12 @@ Internet-Draft                   isocbot                   February 2016
 
 
 
-
-
-
-
 Hildebrand & Daigle      Expires August 9, 2016                 [Page 6]
 
 Internet-Draft                   isocbot                   February 2016
 
 
-5.2.  Informative References
+6.2.  Informative References
 
    [RFC3677]  Daigle, L., Ed. and Internet Architecture Board, "IETF
               ISOC Board of Trustee Appointment Procedures", BCP 77,
