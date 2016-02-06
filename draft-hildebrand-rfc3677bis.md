@@ -46,10 +46,10 @@ an Internet Society (ISOC) Board of Trustees appointment.
 # Introduction        {#introduction}
 
 The Internet Society (ISOC) provides organizational and financial
-support for the IETF.  As stipulated in {{ISOC-By-Laws}} (and originally specified
-in {{RFC3677}}) the IETF is called upon to name 4 Trustees to its Board (BoT),
-with staggered 3 year terms.  This requires that the IETF name one Trustee
-each year.
+support for the IETF. As stipulated in {{ISOC-By-Laws}} (and originally
+specified in {{RFC3677}}) the IETF is called upon to name Trustees to its
+Board (BoT), with staggered 3 year terms.  In general, this requires
+that the IETF name one or more Trustees each year.
 
 This memo outlines the process by which the IETF makes that
 selection.  This process will also be used in the event of mid-term
