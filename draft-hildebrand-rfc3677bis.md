@@ -2,7 +2,7 @@
 title: IETF ISOC Board of Trustee Appointment Procedures
 abbrev: isocbot
 docname: draft-hildebrand-rfc3677bis-latest
-date: 2016-02-06
+date: 2016-02-06giggggggg
 category: std
 
 ipr: trust200902
@@ -38,8 +38,8 @@ informative:
 
 --- abstract
 
-This memo outlines the process by which the IETF makes a selection of
-an Internet Society (ISOC) Board of Trustees appointment.
+This memo, which obsoletes RFC3677, outlines the process by which the IETF
+makes a selection of an Internet Society (ISOC) Board of Trustees appointment.
 
 --- middle
 
@@ -231,6 +231,10 @@ as well as the regular appointment for that selection cycle.
 If the IAB elects to fill the mid-term vacancy before the next annual
 selection, a separate timeline will be announced and the rest of the
 process described in this document will be followed.
+
+# IANA Considerations
+
+This document has no actions for IANA
 
 # Security Considerations
 
