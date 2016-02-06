@@ -77,7 +77,7 @@ Table of Contents
    4.  Security Considerations . . . . . . . . . . . . . . . . . . .   6
    5.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   6
      5.1.  Normative References  . . . . . . . . . . . . . . . . . .   6
-     5.2.  Informative References  . . . . . . . . . . . . . . . . .   6
+     5.2.  Informative References  . . . . . . . . . . . . . . . . .   7
    Appendix A.  IAB Members at the time of this writing  . . . . . .   7
    Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .   7
 
@@ -85,9 +85,10 @@ Table of Contents
 
    The Internet Society (ISOC) provides organizational and financial
    support for the IETF.  As stipulated in [ISOC-By-Laws] (and
-   originally specified in [RFC3677]) the IETF is called upon to name 4
-   Trustees to its Board (BoT), with staggered 3 year terms.  This
-   requires that the IETF name one Trustee each year.
+   originally specified in [RFC3677]) the IETF is called upon to name
+   Trustees to its Board (BoT), with staggered 3 year terms.  In
+   general, this requires that the IETF name one or more Trustees each
+   year.
 
    This memo outlines the process by which the IETF makes that
    selection.  This process will also be used in the event of mid-term
@@ -104,8 +105,7 @@ Table of Contents
    An alternative approach to making a selection for these positions
    would be to use the IETF's NomCom ([RFC7437] and its revisions).
    However, that NomCom is chartered and defined specifically to the
-   task of making selections for IETF organization tasks, and the ISOC
-   BoT appointment process does not fit that in 2 ways:
+
 
 
 
@@ -113,6 +113,9 @@ Hildebrand & Daigle      Expires August 8, 2016                 [Page 2]
 
 Internet-Draft                   isocbot                   February 2016
 
+
+   task of making selections for IETF organization tasks, and the ISOC
+   BoT appointment process does not fit that in 2 ways:
 
    1.  the timeframe of the appointment does not mesh with the IETF
        appointment cycle
@@ -160,9 +163,6 @@ Internet-Draft                   isocbot                   February 2016
    in the IETF with a particular focus on active participation in IETF
    Working Groups.
 
-   The candidate is expected to possess clearly demonstrated technical
-   competence in Internet technology, and be able to articulate
-
 
 
 Hildebrand & Daigle      Expires August 8, 2016                 [Page 3]
@@ -170,6 +170,8 @@ Hildebrand & Daigle      Expires August 8, 2016                 [Page 3]
 Internet-Draft                   isocbot                   February 2016
 
 
+   The candidate is expected to possess clearly demonstrated technical
+   competence in Internet technology, and be able to articulate
    technology issues such that the ISOC Board can be provided with sound
    technical perspectives.  The candidate is also expected to be able to
    understand the respective roles and responsibilities of the IETF and
@@ -215,8 +217,6 @@ Internet-Draft                   isocbot                   February 2016
 
    The selection criteria will include additional consideration of any
    nominated candidates who are concurrently members of the IAB or IESG
-   members such that at the time of selection no more than two of the
-   three IETF-appointed ISOC Trustees are IAB and IESG members.
 
 
 
@@ -225,6 +225,9 @@ Hildebrand & Daigle      Expires August 8, 2016                 [Page 4]
 
 Internet-Draft                   isocbot                   February 2016
 
+
+   members such that at the time of selection no more than two of the
+   three IETF-appointed ISOC Trustees are IAB and IESG members.
 
 3.3.  Confirmation
 
@@ -271,9 +274,6 @@ Internet-Draft                   isocbot                   February 2016
 
    o  2019: 1
 
-   o  2020: 1
-
-   o  etc.
 
 
 
@@ -281,6 +281,10 @@ Hildebrand & Daigle      Expires August 8, 2016                 [Page 5]
 
 Internet-Draft                   isocbot                   February 2016
 
+
+   o  2020: 1
+
+   o  etc.
 
 3.4.2.  Further Changes to Number and Timing of Appointments
 
@@ -323,12 +327,8 @@ Internet-Draft                   isocbot                   February 2016
               <https://www.internetsociety.org/who-we-are/governance-
               and-policies/amended-and-restated-laws-internet-society>.
 
-5.2.  Informative References
 
-   [RFC3677]  Daigle, L., Ed. and Internet Architecture Board, "IETF
-              ISOC Board of Trustee Appointment Procedures", BCP 77,
-              RFC 3677, DOI 10.17487/RFC3677, December 2003,
-              <http://www.rfc-editor.org/info/rfc3677>.
+
 
 
 
@@ -337,6 +337,13 @@ Hildebrand & Daigle      Expires August 8, 2016                 [Page 6]
 
 Internet-Draft                   isocbot                   February 2016
 
+
+5.2.  Informative References
+
+   [RFC3677]  Daigle, L., Ed. and Internet Architecture Board, "IETF
+              ISOC Board of Trustee Appointment Procedures", BCP 77,
+              RFC 3677, DOI 10.17487/RFC3677, December 2003,
+              <http://www.rfc-editor.org/info/rfc3677>.
 
    [RFC7437]  Kucherawy, M., Ed., "IAB, IESG, and IAOC Selection,
               Confirmation, and Recall Process: Operation of the
@@ -380,6 +387,13 @@ Authors' Addresses
    Email: jhildebr@cisco.com
 
 
+
+
+Hildebrand & Daigle      Expires August 8, 2016                 [Page 7]
+
+Internet-Draft                   isocbot                   February 2016
+
+
    Leslie Daigle
 
    Email: ldaigle@thinkingcat.com
@@ -389,4 +403,46 @@ Authors' Addresses
 
 
 
-Hildebrand & Daigle      Expires August 8, 2016                 [Page 7]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hildebrand & Daigle      Expires August 8, 2016                 [Page 8]
