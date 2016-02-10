@@ -1,8 +1,8 @@
 ---
 title: IETF ISOC Board of Trustee Appointment Procedures
 abbrev: isocbot
-docname: draft-hildebrand-rfc3677bis-latest
-date: 2016-02-06giggggggg
+docname: draft-iab-rfc3677bis-latest
+date: 2016-02-10
 category: std
 
 ipr: trust200902
@@ -160,9 +160,9 @@ The IAB will publish the list of nominated persons, review the
 nomination material, and make a selection.
 
 The selection criteria will include additional consideration of any
-nominated candidates who are concurrently members of the IAB or IESG
-members such that at the time of selection no more than two of the
-three IETF-appointed ISOC Trustees are IAB and IESG members.
+nominated candidates who are concurrently members of the IAB or the IESG
+such that at the time of selection no more than two of the
+four IETF-appointed ISOC Trustees are IAB and IESG members.
 
 ## Confirmation
 
@@ -189,7 +189,7 @@ the IETF ISOC Trustee selection process for that year (taking into
 account the particular dates of the first IETF meeting of the year,
 etc), following the guidelines above.
 
-### Timing of Fourth Appointment
+### Timing of Fourth Appointment {#timing-fourth}
 
 There was a change to the ISOC by-laws in 2013 such that the IAB appoints
 a total of four Board members, with that change taking effect in 2015.  Every
@@ -206,7 +206,7 @@ in the given years:
 * 2020: 1
 * etc.
 
-### Further Changes to Number and Timing of Appointments
+### Further Changes to Number and Timing of Appointments {#further-changes}
 
 If ISOC further modifies {{ISOC-By-Laws}} concerning the number of IAB
 appointments to the ISOC Board or the timing thereof, the IAB will make
@@ -242,6 +242,16 @@ This document does not describe any technical protocols and has no
 implications for network security.
 
 --- back
+
+# Changes Since RFC3677
+
+* Changed the current number of appointees from three to four
+* Added {{timing-fourth}}, clarifying when the fourth nomination will be made
+* Added {{further-changes}}, allowing for further change more easily
+* Updated reference from RFC2727 to {{RFC7437}}
+* Added reference to {{ISOC-By-Laws}}
+* Updates to pass modern nit-checking (IANA Considerations, abstract references
+  obsoleted document, etc.)
 
 # IAB Members at the time of this writing
 
