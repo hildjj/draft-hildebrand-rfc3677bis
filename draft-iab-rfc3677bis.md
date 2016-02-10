@@ -212,7 +212,7 @@ If ISOC further modifies {{ISOC-By-Laws}} concerning the number of IAB
 appointments to the ISOC Board or the timing thereof, the IAB will make
 reasonable modifications to the processes embodied in this document, without
 requiring further modification to this document.  Such changes will be
-announced via IAB statement.
+announced via an IAB statement.
 
 ## Mid-term Vacancies
 
